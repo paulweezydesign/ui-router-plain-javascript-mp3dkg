@@ -1,0 +1,9 @@
+{
+  "name": "ui-router-plain-javascript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@uirouter/core": "5.0.20",
+    "@uirouter/visualizer": "6.0.2"
+  }
+}
